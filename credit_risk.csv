@@ -13,3 +13,9 @@ Boa,Alta,Nenhuma,< 15000,Alto
 Boa,Alta,Nenhuma,>= 15000 e <=35000,Moderado
 Boa,Alta,Nenhuma,> 35000,Baixo
 Ruim,Alta,Nenhuma,>= 15000 e <=35000,Alto
+Ruim,Baixa,Adequada,>= 15000 e <=35000,Moderado
+Boa,Alta,Adequada,< 15000,Baixo
+Boa,Baixa,Nenhuma,>= 15000 e <=35000,Moderado
+Boa,Alta,Nenhuma,> 35000,Baixo
+Desconhecida,Alta,Adequada,> 35000,Baixo
+Ruim,Alta,Nenhuma,> 35000,Alto
